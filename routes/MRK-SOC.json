@@ -1,0 +1,395 @@
+{
+  "response": {
+    "metaInfo": {
+      "timestamp": "2017-09-18T08:28:04Z",
+      "mapVersion": "8.30.73.154",
+      "moduleVersion": "7.2.201736-157412",
+      "interfaceVersion": "2.6.34",
+      "availableMapVersion": [
+        "8.30.73.154"
+      ]
+    },
+    "route": [
+      {
+        "waypoint": [
+          {
+            "linkId": "-830251548",
+            "mappedPosition": {
+              "latitude": 48.1600499,
+              "longitude": 7.5638723
+            },
+            "originalPosition": {
+              "latitude": 48.154479,
+              "longitude": 7.552821
+            },
+            "type": "stopOver",
+            "spot": 1.0,
+            "sideOfStreet": "neither",
+            "mappedRoadName": "",
+            "label": "D424",
+            "shapeIndex": 0
+          },
+          {
+            "linkId": "-1171528037",
+            "mappedPosition": {
+              "latitude": 47.5033057,
+              "longitude": 6.8241942
+            },
+            "originalPosition": {
+              "latitude": 47.509509,
+              "longitude": 6.81239
+            },
+            "type": "stopOver",
+            "spot": 0.0,
+            "sideOfStreet": "neither",
+            "mappedRoadName": "La Comtoise",
+            "label": "La Comtoise - A36",
+            "shapeIndex": 32
+          }
+        ],
+        "mode": {
+          "type": "fastest",
+          "transportModes": [
+            "car"
+          ],
+          "trafficMode": "disabled",
+          "feature": [
+          ]
+        },
+        "shape": [
+          "48.1600499,7.5638723",
+          "48.1561983,7.5835383",
+          "48.1212974,7.5684428",
+          "48.0976617,7.5738716",
+          "48.088274,7.5567377",
+          "48.0776846,7.5526714",
+          "48.0330634,7.5610077",
+          "48.0170131,7.57164",
+          "48.0116165,7.5551283",
+          "48.0092347,7.5353551",
+          "48.0137944,7.5233173",
+          "48.0013275,7.51423",
+          "47.9914248,7.4776661",
+          "47.9816937,7.4432802",
+          "47.9840648,7.4038839",
+          "47.9908347,7.401588",
+          "47.9933453,7.3770082",
+          "47.9262793,7.3596275",
+          "47.8601253,7.3929727",
+          "47.791568,7.397275",
+          "47.7793157,7.3988736",
+          "47.7733505,7.3485661",
+          "47.7461958,7.2716939",
+          "47.7125287,7.1212542",
+          "47.7112949,7.0478261",
+          "47.6840758,7.0058441",
+          "47.6414287,6.8866789",
+          "47.614435,6.8564773",
+          "47.5708008,6.856842",
+          "47.5532591,6.86432",
+          "47.5292158,6.8584085",
+          "47.5133586,6.8473899",
+          "47.5033057,6.8241942"
+        ],
+        "leg": [
+          {
+            "start": {
+              "linkId": "-830251548",
+              "mappedPosition": {
+                "latitude": 48.1600499,
+                "longitude": 7.5638723
+              },
+              "originalPosition": {
+                "latitude": 48.154479,
+                "longitude": 7.552821
+              },
+              "type": "stopOver",
+              "spot": 1.0,
+              "sideOfStreet": "neither",
+              "mappedRoadName": "",
+              "label": "D424",
+              "shapeIndex": 0
+            },
+            "end": {
+              "linkId": "-1171528037",
+              "mappedPosition": {
+                "latitude": 47.5033057,
+                "longitude": 6.8241942
+              },
+              "originalPosition": {
+                "latitude": 47.509509,
+                "longitude": 6.81239
+              },
+              "type": "stopOver",
+              "spot": 0.0,
+              "sideOfStreet": "neither",
+              "mappedRoadName": "La Comtoise",
+              "label": "La Comtoise - A36",
+              "shapeIndex": 32
+            },
+            "length": 120881,
+            "travelTime": 4846,
+            "maneuver": [
+              {
+                "position": {
+                  "latitude": 48.1600499,
+                  "longitude": 7.5638723
+                },
+                "instruction": "Head <span class=\"heading\">southeast</span> on <span class=\"number\">D424</span>. <span class=\"distance-description\">Go for <span class=\"length\">1.6 km</span>.</span>",
+                "travelTime": 75,
+                "length": 1559,
+                "shape": [
+                  "48.1600499,7.5638723",
+                  "48.1561983,7.5835383"
+                ],
+                "direction": "forward",
+                "id": "M1",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.1561983,
+                  "longitude": 7.5835383
+                },
+                "instruction": "Take the <span class=\"exit\">1st exit</span> from roundabout onto <span class=\"number\">D20</span> toward <span class=\"sign\"><span lang=\"fr\">Neuf-Brisach</span>/<span lang=\"fr\">Ribeauvillé</span>/<span lang=\"fr\">Mémorial Ligne Maginot</span></span>. <span class=\"distance-description\">Go for <span class=\"length\">4.1 km</span>.</span>",
+                "travelTime": 185,
+                "length": 4099,
+                "shape": [
+                  "48.1561983,7.5835383",
+                  "48.1212974,7.5684428"
+                ],
+                "direction": "right",
+                "id": "M2",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.1212974,
+                  "longitude": 7.5684428
+                },
+                "instruction": "Continue on <span class=\"number\">D52</span>. <span class=\"distance-description\">Go for <span class=\"length\">10.8 km</span>.</span>",
+                "travelTime": 503,
+                "length": 10762,
+                "shape": [
+                  "48.1212974,7.5684428",
+                  "48.0976617,7.5738716",
+                  "48.088274,7.5567377",
+                  "48.0776846,7.5526714",
+                  "48.0330634,7.5610077"
+                ],
+                "direction": "forward",
+                "id": "M3",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.0330634,
+                  "longitude": 7.5610077
+                },
+                "instruction": "Take the <span class=\"exit\">2nd exit</span> from roundabout onto <span class=\"number\">D52</span>. <span class=\"distance-description\">Go for <span class=\"length\">2.1 km</span>.</span>",
+                "travelTime": 139,
+                "length": 2108,
+                "shape": [
+                  "48.0330634,7.5610077",
+                  "48.0170131,7.57164"
+                ],
+                "direction": "right",
+                "id": "M4",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.0170131,
+                  "longitude": 7.57164
+                },
+                "instruction": "Take the <span class=\"exit\">1st exit</span> from roundabout onto <span class=\"number\">D415</span> toward <span class=\"sign\"><span lang=\"fr\">Colmar</span>/<span lang=\"fr\">Neuf-Brisach</span></span>. <span class=\"distance-description\">Go for <span class=\"length\">1.4 km</span>.</span>",
+                "travelTime": 83,
+                "length": 1376,
+                "shape": [
+                  "48.0170131,7.57164",
+                  "48.0116165,7.5551283"
+                ],
+                "direction": "right",
+                "id": "M5",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.0116165,
+                  "longitude": 7.5551283
+                },
+                "instruction": "Take the <span class=\"exit\">3rd exit</span> from roundabout onto <span class=\"number\">D415</span> toward <span class=\"sign\"><span lang=\"fr\">Colmar</span>/<span lang=\"fr\">Neuf-Brisach</span></span>. <span class=\"distance-description\">Go for <span class=\"length\">1.5 km</span>.</span>",
+                "travelTime": 95,
+                "length": 1538,
+                "shape": [
+                  "48.0116165,7.5551283",
+                  "48.0092347,7.5353551"
+                ],
+                "direction": "right",
+                "id": "M6",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.0092347,
+                  "longitude": 7.5353551
+                },
+                "instruction": "Take the <span class=\"exit\">2nd exit</span> from roundabout onto <span class=\"number\">D415</span> toward <span class=\"sign\"><span lang=\"fr\">A35</span>/<span lang=\"fr\">Colmar</span>/<span lang=\"fr\">Wolfantzen</span></span>. <span class=\"distance-description\">Go for <span class=\"length\">1.1 km</span>.</span>",
+                "travelTime": 79,
+                "length": 1098,
+                "shape": [
+                  "48.0092347,7.5353551",
+                  "48.0137944,7.5233173"
+                ],
+                "direction": "right",
+                "id": "M7",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.0137944,
+                  "longitude": 7.5233173
+                },
+                "instruction": "Take the <span class=\"exit\">3rd exit</span> from roundabout onto <span class=\"number\">D2</span> toward <span class=\"sign\"><span lang=\"fr\">Ensisheim</span>/<span lang=\"fr\">Dessenheim</span>/<span lang=\"fr\">Weckolsheim</span></span>. <span class=\"distance-description\">Go for <span class=\"length\">1.8 km</span>.</span>",
+                "travelTime": 148,
+                "length": 1808,
+                "shape": [
+                  "48.0137944,7.5233173",
+                  "48.0013275,7.51423"
+                ],
+                "direction": "right",
+                "id": "M8",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.0013275,
+                  "longitude": 7.51423
+                },
+                "instruction": "Turn <span class=\"direction\">right</span> onto <span class=\"next-street\">Route de Niederhergheim</span> <span class=\"number\">(D1 BIS)</span>. <span class=\"distance-description\">Go for <span class=\"length\">2.9 km</span>.</span>",
+                "travelTime": 145,
+                "length": 2941,
+                "shape": [
+                  "48.0013275,7.51423",
+                  "47.9914248,7.4776661"
+                ],
+                "direction": "right",
+                "id": "M9",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 47.9914248,
+                  "longitude": 7.4776661
+                },
+                "instruction": "Pass <span class=\"roundabout-count\">3</span> roundabouts and continue on <span class=\"next-street\">Route de Herrlisheim</span> <span class=\"number\">(D1 BIS)</span>. <span class=\"distance-description\">Go for <span class=\"length\">8.6 km</span>.</span>",
+                "travelTime": 454,
+                "length": 8609,
+                "shape": [
+                  "47.9914248,7.4776661",
+                  "47.9816937,7.4432802",
+                  "47.9840648,7.4038839",
+                  "47.9908347,7.401588",
+                  "47.9933453,7.3770082"
+                ],
+                "direction": "forward",
+                "id": "M10",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 47.9933453,
+                  "longitude": 7.3770082
+                },
+                "instruction": "Take the <span class=\"exit\">3rd exit</span> from roundabout onto <span class=\"number\">A35</span> toward <span class=\"sign\"><span lang=\"fr\">Mulhouse</span>/<span lang=\"fr\">Bâle (Basel)</span></span>. <span class=\"distance-description\">Go for <span class=\"length\">23.2 km</span>.</span>",
+                "travelTime": 773,
+                "length": 23170,
+                "shape": [
+                  "47.9933453,7.3770082",
+                  "47.9262793,7.3596275",
+                  "47.8601253,7.3929727",
+                  "47.791568,7.397275"
+                ],
+                "direction": "right",
+                "id": "M11",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 47.791568,
+                  "longitude": 7.397275
+                },
+                "instruction": "Keep <span class=\"direction\">left</span> onto <span class=\"next-street\">Échangeur de Bâle-Mulhouse</span> toward <span class=\"sign\"><span lang=\"fr\">Mulhouse</span>/<span lang=\"fr\">Lyon</span>/<span lang=\"fr\">Paris</span></span>. <span class=\"distance-description\">Go for <span class=\"length\">1.5 km</span>.</span>",
+                "travelTime": 58,
+                "length": 1540,
+                "shape": [
+                  "47.791568,7.397275",
+                  "47.7793157,7.3988736"
+                ],
+                "direction": "bearLeft",
+                "id": "M12",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 47.7793157,
+                  "longitude": 7.3988736
+                },
+                "instruction": "Keep <span class=\"direction\">right</span> onto <span class=\"number\">A36</span> <span class=\"next-street\">(La Comtoise)</span>. <span class=\"distance-description\">Go for <span class=\"length\">60.3 km</span>.</span>",
+                "travelTime": 2109,
+                "length": 60273,
+                "shape": [
+                  "47.7793157,7.3988736",
+                  "47.7733505,7.3485661",
+                  "47.7461958,7.2716939",
+                  "47.7125287,7.1212542",
+                  "47.7112949,7.0478261",
+                  "47.6840758,7.0058441",
+                  "47.6414287,6.8866789",
+                  "47.614435,6.8564773",
+                  "47.5708008,6.856842",
+                  "47.5532591,6.86432",
+                  "47.5292158,6.8584085",
+                  "47.5133586,6.8473899",
+                  "47.5033057,6.8241942"
+                ],
+                "direction": "bearRight",
+                "id": "M13",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 47.5033057,
+                  "longitude": 6.8241942
+                },
+                "instruction": "Arrive at <span class=\"street\">La Comtoise</span> <span class=\"number\">(A36)</span>.",
+                "travelTime": 0,
+                "length": 0,
+                "shape": [
+                  "47.5033057,6.8241942"
+                ],
+                "direction": "forward",
+                "id": "M14",
+                "_type": "PrivateTransportManeuverType"
+              }
+            ]
+          }
+        ],
+        "summary": {
+          "distance": 120881,
+          "trafficTime": 5218,
+          "baseTime": 4846,
+          "flags": [
+            "tollroad",
+            "motorway",
+            "builtUpArea"
+          ],
+          "text": "The trip takes <span class=\"length\">121 km</span> and <span class=\"time\">1:21 h</span>.",
+          "travelTime": 4846,
+          "_type": "RouteSummaryType"
+        }
+      }
+    ],
+    "language": "en-us"
+  }
+}

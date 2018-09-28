@@ -1,0 +1,16 @@
+[{
+	"start": "SOC",
+	"startSite": "PSA Sochaux",
+	"startDate": "19/09/2017 14:20",
+	"startStatus": {
+		"description": "OK (site PSA)",
+		"marker": "green"
+	},
+	"end": "MRK",
+	"endSite": "Faurecia Marckolsheim",
+	"endStatus": {
+		"description": "OK (site fournisseur)",
+		"marker": "green"
+	},
+	"durationBetweenPointsInMins": 15
+}]

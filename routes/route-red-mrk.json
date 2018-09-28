@@ -1,0 +1,31 @@
+[{
+	"start": "BSO",
+	"startSite": "Faurecia Bains-sur-Oust",
+	"startDate": "18/09/2017 10:10",
+	"startStatus": {
+		"description": "OK (site fournisseur)",
+		"marker": "green"
+	},
+	"end": "REN",
+	"endSite": "PSA Rennes",
+	"endStatus": {
+		"description": "OK (site PSA)",
+		"marker": "green"
+	},
+	"durationBetweenPointsInMins": 15
+}, {
+	"start": "REN",
+	"startSite": "PSA Rennes",
+	"startDate": "19/09/2017 11:30",
+	"startStatus": {
+		"description": "OK (site PSA)",
+		"marker": "green"
+	},
+	"end": "MRK",
+	"endSite": "Faurecia Marckolsheim",
+	"endStatus": {
+		"description": "Immobile (site fournisseur, depuis le 19/09/2017 10:00)",
+		"marker": "red"
+	},
+	"durationBetweenPointsInMins": 15
+}]

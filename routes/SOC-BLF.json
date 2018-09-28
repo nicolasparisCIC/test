@@ -1,0 +1,162 @@
+{
+  "response": {
+    "metaInfo": {
+      "timestamp": "2017-09-18T12:24:32Z",
+      "mapVersion": "8.30.73.154",
+      "moduleVersion": "7.2.201736-157412",
+      "interfaceVersion": "2.6.34",
+      "availableMapVersion": [
+        "8.30.73.154"
+      ]
+    },
+    "route": [
+      {
+        "waypoint": [
+          {
+            "linkId": "+723616956",
+            "mappedPosition": {
+              "latitude": 47.5031126,
+              "longitude": 6.8239689
+            },
+            "originalPosition": {
+              "latitude": 47.509509,
+              "longitude": 6.81239
+            },
+            "type": "stopOver",
+            "spot": 0.0,
+            "sideOfStreet": "neither",
+            "mappedRoadName": "La Comtoise",
+            "label": "La Comtoise - A36",
+            "shapeIndex": 0
+          },
+          {
+            "linkId": "+589435429",
+            "mappedPosition": {
+              "latitude": 47.6297987,
+              "longitude": 6.8689549
+            },
+            "originalPosition": {
+              "latitude": 47.636542,
+              "longitude": 6.8643579
+            },
+            "type": "stopOver",
+            "spot": 1.0,
+            "sideOfStreet": "neither",
+            "mappedRoadName": "La Comtoise",
+            "label": "La Comtoise - A36",
+            "shapeIndex": 6
+          }
+        ],
+        "mode": {
+          "type": "fastest",
+          "transportModes": [
+            "car"
+          ],
+          "trafficMode": "disabled",
+          "feature": [
+          ]
+        },
+        "shape": [
+          "47.5031126,6.8239689",
+          "47.5141847,6.8485808",
+          "47.5356853,6.8612838",
+          "47.5546861,6.864481",
+          "47.5702322,6.8571746",
+          "47.6121068,6.8563592",
+          "47.6297987,6.8689549"
+        ],
+        "leg": [
+          {
+            "start": {
+              "linkId": "+723616956",
+              "mappedPosition": {
+                "latitude": 47.5031126,
+                "longitude": 6.8239689
+              },
+              "originalPosition": {
+                "latitude": 47.509509,
+                "longitude": 6.81239
+              },
+              "type": "stopOver",
+              "spot": 0.0,
+              "sideOfStreet": "neither",
+              "mappedRoadName": "La Comtoise",
+              "label": "La Comtoise - A36",
+              "shapeIndex": 0
+            },
+            "end": {
+              "linkId": "+589435429",
+              "mappedPosition": {
+                "latitude": 47.6297987,
+                "longitude": 6.8689549
+              },
+              "originalPosition": {
+                "latitude": 47.636542,
+                "longitude": 6.8643579
+              },
+              "type": "stopOver",
+              "spot": 1.0,
+              "sideOfStreet": "neither",
+              "mappedRoadName": "La Comtoise",
+              "label": "La Comtoise - A36",
+              "shapeIndex": 6
+            },
+            "length": 15751,
+            "travelTime": 558,
+            "maneuver": [
+              {
+                "position": {
+                  "latitude": 47.5031126,
+                  "longitude": 6.8239689
+                },
+                "instruction": "Head <span class=\"heading\">northeast</span> on <span class=\"number\">A36</span> <span class=\"street\">(La Comtoise)</span>. <span class=\"distance-description\">Go for <span class=\"length\">15.8 km</span>.</span>",
+                "travelTime": 558,
+                "length": 15751,
+                "shape": [
+                  "47.5031126,6.8239689",
+                  "47.5141847,6.8485808",
+                  "47.5356853,6.8612838",
+                  "47.5546861,6.864481",
+                  "47.5702322,6.8571746",
+                  "47.6121068,6.8563592",
+                  "47.6297987,6.8689549"
+                ],
+                "direction": "forward",
+                "id": "M1",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 47.6297987,
+                  "longitude": 6.8689549
+                },
+                "instruction": "Arrive at <span class=\"street\">La Comtoise</span> <span class=\"number\">(A36)</span>.",
+                "travelTime": 0,
+                "length": 0,
+                "shape": [
+                  "47.6297987,6.8689549"
+                ],
+                "direction": "forward",
+                "id": "M2",
+                "_type": "PrivateTransportManeuverType"
+              }
+            ]
+          }
+        ],
+        "summary": {
+          "distance": 15751,
+          "trafficTime": 578,
+          "baseTime": 558,
+          "flags": [
+            "motorway",
+            "builtUpArea"
+          ],
+          "text": "The trip takes <span class=\"length\">15.8 km</span> and <span class=\"time\">9 mins</span>.",
+          "travelTime": 558,
+          "_type": "RouteSummaryType"
+        }
+      }
+    ],
+    "language": "en-us"
+  }
+}

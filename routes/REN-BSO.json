@@ -1,0 +1,188 @@
+{
+  "response": {
+    "metaInfo": {
+      "timestamp": "2017-09-18T11:27:09Z",
+      "mapVersion": "8.30.73.154",
+      "moduleVersion": "7.2.201736-157412",
+      "interfaceVersion": "2.6.34",
+      "availableMapVersion": [
+        "8.30.73.154"
+      ]
+    },
+    "route": [
+      {
+        "waypoint": [
+          {
+            "linkId": "-76721956",
+            "mappedPosition": {
+              "latitude": 48.0632669,
+              "longitude": -1.7187153
+            },
+            "originalPosition": {
+              "latitude": 48.059503,
+              "longitude": -1.710794
+            },
+            "type": "stopOver",
+            "spot": 0.3235725,
+            "sideOfStreet": "neither",
+            "mappedRoadName": "",
+            "label": "D177",
+            "shapeIndex": 0
+          },
+          {
+            "linkId": "-1021582053",
+            "mappedPosition": {
+              "latitude": 47.6891837,
+              "longitude": -2.0584762
+            },
+            "originalPosition": {
+              "latitude": 47.686662,
+              "longitude": -2.055756
+            },
+            "type": "stopOver",
+            "spot": 0.6549414,
+            "sideOfStreet": "neither",
+            "mappedRoadName": "",
+            "label": "D177",
+            "shapeIndex": 12
+          }
+        ],
+        "mode": {
+          "type": "fastest",
+          "transportModes": [
+            "car"
+          ],
+          "trafficMode": "disabled",
+          "feature": [
+          ]
+        },
+        "shape": [
+          "48.0632669,-1.7187153",
+          "48.0482447,-1.7513752",
+          "48.0294478,-1.762383",
+          "48.0215299,-1.7892587",
+          "48.0041707,-1.8097401",
+          "47.9537666,-1.8172395",
+          "47.9010022,-1.8709052",
+          "47.8646421,-1.8757224",
+          "47.8482378,-1.9020724",
+          "47.814635,-1.9200432",
+          "47.7822554,-1.9277251",
+          "47.7186871,-1.9731402",
+          "47.6891837,-2.0584762"
+        ],
+        "leg": [
+          {
+            "start": {
+              "linkId": "-76721956",
+              "mappedPosition": {
+                "latitude": 48.0632669,
+                "longitude": -1.7187153
+              },
+              "originalPosition": {
+                "latitude": 48.059503,
+                "longitude": -1.710794
+              },
+              "type": "stopOver",
+              "spot": 0.3235725,
+              "sideOfStreet": "neither",
+              "mappedRoadName": "",
+              "label": "D177",
+              "shapeIndex": 0
+            },
+            "end": {
+              "linkId": "-1021582053",
+              "mappedPosition": {
+                "latitude": 47.6891837,
+                "longitude": -2.0584762
+              },
+              "originalPosition": {
+                "latitude": 47.686662,
+                "longitude": -2.055756
+              },
+              "type": "stopOver",
+              "spot": 0.6549414,
+              "sideOfStreet": "neither",
+              "mappedRoadName": "",
+              "label": "D177",
+              "shapeIndex": 12
+            },
+            "length": 52689,
+            "travelTime": 2035,
+            "maneuver": [
+              {
+                "position": {
+                  "latitude": 48.0632669,
+                  "longitude": -1.7187153
+                },
+                "instruction": "Head toward <span class=\"toward_street\">Rue de la Pommerais</span> on <span class=\"number\">D177</span>. <span class=\"distance-description\">Go for <span class=\"length\">37.4 km</span>.</span>",
+                "travelTime": 1349,
+                "length": 37432,
+                "shape": [
+                  "48.0632669,-1.7187153",
+                  "48.0482447,-1.7513752",
+                  "48.0294478,-1.762383",
+                  "48.0215299,-1.7892587",
+                  "48.0041707,-1.8097401",
+                  "47.9537666,-1.8172395",
+                  "47.9010022,-1.8709052",
+                  "47.8646421,-1.8757224",
+                  "47.8482378,-1.9020724",
+                  "47.814635,-1.9200432",
+                  "47.7822554,-1.9277251"
+                ],
+                "direction": "forward",
+                "id": "M1",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 47.7822554,
+                  "longitude": -1.9277251
+                },
+                "instruction": "Pass <span class=\"roundabout-count\">3</span> roundabouts and continue on <span class=\"number\">D177</span>. <span class=\"distance-description\">Go for <span class=\"length\">15.3 km</span>.</span>",
+                "travelTime": 686,
+                "length": 15257,
+                "shape": [
+                  "47.7822554,-1.9277251",
+                  "47.7186871,-1.9731402",
+                  "47.6891837,-2.0584762"
+                ],
+                "direction": "forward",
+                "id": "M2",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 47.6891837,
+                  "longitude": -2.0584762
+                },
+                "instruction": "Arrive at <span class=\"number\">D177</span>.",
+                "travelTime": 0,
+                "length": 0,
+                "shape": [
+                  "47.6891837,-2.0584762"
+                ],
+                "direction": "forward",
+                "id": "M3",
+                "_type": "PrivateTransportManeuverType"
+              }
+            ]
+          }
+        ],
+        "summary": {
+          "distance": 52689,
+          "trafficTime": 2259,
+          "baseTime": 2035,
+          "flags": [
+            "builtUpArea"
+          ],
+          "text": "The trip takes <span class=\"length\">52.7 km</span> and <span class=\"time\">34 mins</span>.",
+          "travelTime": 2035,
+          "_type": "RouteSummaryType"
+        }
+      }
+    ],
+    "language": "en-us"
+  }
+}

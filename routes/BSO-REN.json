@@ -1,0 +1,186 @@
+{
+  "response": {
+    "metaInfo": {
+      "timestamp": "2017-09-18T08:21:18Z",
+      "mapVersion": "8.30.73.154",
+      "moduleVersion": "7.2.201736-157412",
+      "interfaceVersion": "2.6.34",
+      "availableMapVersion": [
+        "8.30.73.154"
+      ]
+    },
+    "route": [
+      {
+        "waypoint": [
+          {
+            "linkId": "+1021582054",
+            "mappedPosition": {
+              "latitude": 47.6882601,
+              "longitude": -2.0601296
+            },
+            "originalPosition": {
+              "latitude": 47.686662,
+              "longitude": -2.055756
+            },
+            "type": "stopOver",
+            "spot": 0.0,
+            "sideOfStreet": "neither",
+            "mappedRoadName": "",
+            "label": "D177",
+            "shapeIndex": 0
+          },
+          {
+            "linkId": "+569973285",
+            "mappedPosition": {
+              "latitude": 48.0632122,
+              "longitude": -1.7185991
+            },
+            "originalPosition": {
+              "latitude": 48.059503,
+              "longitude": -1.710794
+            },
+            "type": "stopOver",
+            "spot": 0.50358,
+            "sideOfStreet": "neither",
+            "mappedRoadName": "",
+            "label": "D177",
+            "shapeIndex": 11
+          }
+        ],
+        "mode": {
+          "type": "fastest",
+          "transportModes": [
+            "car"
+          ],
+          "trafficMode": "disabled",
+          "feature": [
+          ]
+        },
+        "shape": [
+          "47.6882601,-2.0601296",
+          "47.7139878,-1.9813693",
+          "47.7592528,-1.9405997",
+          "47.8482378,-1.9019222",
+          "47.8641486,-1.8758297",
+          "47.9011953,-1.8706155",
+          "47.9538846,-1.8170249",
+          "48.0040419,-1.8096542",
+          "48.0216265,-1.788851",
+          "48.028965,-1.7628658",
+          "48.0479443,-1.7516434",
+          "48.0632122,-1.7185991"
+        ],
+        "leg": [
+          {
+            "start": {
+              "linkId": "+1021582054",
+              "mappedPosition": {
+                "latitude": 47.6882601,
+                "longitude": -2.0601296
+              },
+              "originalPosition": {
+                "latitude": 47.686662,
+                "longitude": -2.055756
+              },
+              "type": "stopOver",
+              "spot": 0.0,
+              "sideOfStreet": "neither",
+              "mappedRoadName": "",
+              "label": "D177",
+              "shapeIndex": 0
+            },
+            "end": {
+              "linkId": "+569973285",
+              "mappedPosition": {
+                "latitude": 48.0632122,
+                "longitude": -1.7185991
+              },
+              "originalPosition": {
+                "latitude": 48.059503,
+                "longitude": -1.710794
+              },
+              "type": "stopOver",
+              "spot": 0.50358,
+              "sideOfStreet": "neither",
+              "mappedRoadName": "",
+              "label": "D177",
+              "shapeIndex": 11
+            },
+            "length": 52833,
+            "travelTime": 2025,
+            "maneuver": [
+              {
+                "position": {
+                  "latitude": 47.6882601,
+                  "longitude": -2.0601296
+                },
+                "instruction": "Head <span class=\"heading\">northeast</span> on <span class=\"number\">D177</span>. <span class=\"distance-description\">Go for <span class=\"length\">6.6 km</span>.</span>",
+                "travelTime": 238,
+                "length": 6643,
+                "shape": [
+                  "47.6882601,-2.0601296",
+                  "47.7139878,-1.9813693"
+                ],
+                "direction": "forward",
+                "id": "M1",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 47.7139878,
+                  "longitude": -1.9813693
+                },
+                "instruction": "Pass <span class=\"roundabout-count\">3</span> roundabouts and continue on <span class=\"number\">D177</span>. <span class=\"distance-description\">Go for <span class=\"length\">46.2 km</span>.</span>",
+                "travelTime": 1787,
+                "length": 46190,
+                "shape": [
+                  "47.7139878,-1.9813693",
+                  "47.7592528,-1.9405997",
+                  "47.8482378,-1.9019222",
+                  "47.8641486,-1.8758297",
+                  "47.9011953,-1.8706155",
+                  "47.9538846,-1.8170249",
+                  "48.0040419,-1.8096542",
+                  "48.0216265,-1.788851",
+                  "48.028965,-1.7628658",
+                  "48.0479443,-1.7516434",
+                  "48.0632122,-1.7185991"
+                ],
+                "direction": "forward",
+                "id": "M2",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.0632122,
+                  "longitude": -1.7185991
+                },
+                "instruction": "Arrive at <span class=\"number\">D177</span>.",
+                "travelTime": 0,
+                "length": 0,
+                "shape": [
+                  "48.0632122,-1.7185991"
+                ],
+                "direction": "forward",
+                "id": "M3",
+                "_type": "PrivateTransportManeuverType"
+              }
+            ]
+          }
+        ],
+        "summary": {
+          "distance": 52833,
+          "trafficTime": 2260,
+          "baseTime": 2025,
+          "flags": [
+            "builtUpArea"
+          ],
+          "text": "The trip takes <span class=\"length\">52.8 km</span> and <span class=\"time\">34 mins</span>.",
+          "travelTime": 2025,
+          "_type": "RouteSummaryType"
+        }
+      }
+    ],
+    "language": "en-us"
+  }
+}

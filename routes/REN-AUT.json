@@ -1,0 +1,232 @@
+{
+  "response": {
+    "metaInfo": {
+      "timestamp": "2017-09-18T16:05:48Z",
+      "mapVersion": "8.30.73.154",
+      "moduleVersion": "7.2.201736-157412",
+      "interfaceVersion": "2.6.34",
+      "availableMapVersion": [
+        "8.30.73.154"
+      ]
+    },
+    "route": [
+      {
+        "waypoint": [
+          {
+            "linkId": "-542826215",
+            "mappedPosition": {
+              "latitude": 48.1584835,
+              "longitude": -1.5976095
+            },
+            "originalPosition": {
+              "latitude": 48.059503,
+              "longitude": -1.710794
+            },
+            "type": "stopOver",
+            "spot": 1.0,
+            "sideOfStreet": "neither",
+            "mappedRoadName": "Porte de Normandie",
+            "label": "Porte de Normandie",
+            "shapeIndex": 0
+          },
+          {
+            "linkId": "+1035920377",
+            "mappedPosition": {
+              "latitude": 48.202224,
+              "longitude": 0.8893019
+            },
+            "originalPosition": {
+              "latitude": 48.2022779,
+              "longitude": 0.8892789
+            },
+            "type": "stopOver",
+            "spot": 0.7343358,
+            "sideOfStreet": "left",
+            "mappedRoadName": "L'Océane",
+            "label": "L'Océane - A11",
+            "shapeIndex": 18
+          }
+        ],
+        "mode": {
+          "type": "fastest",
+          "transportModes": [
+            "car"
+          ],
+          "trafficMode": "disabled",
+          "feature": [
+          ]
+        },
+        "shape": [
+          "48.1584835,-1.5976095",
+          "48.1214905,-1.5730405",
+          "48.0768692,-1.3110745",
+          "48.0700135,-1.1781657",
+          "48.089422,-1.0992765",
+          "48.0836499,-1.0447741",
+          "48.0752063,-0.9280336",
+          "48.1158364,-0.7817137",
+          "48.0753887,-0.6426895",
+          "48.0514741,-0.4129529",
+          "48.0076683,-0.2856445",
+          "48.002615,-0.1921749",
+          "48.0450368,0.0963879",
+          "48.0391896,0.138005",
+          "48.0579543,0.2029788",
+          "48.0534911,0.3520775",
+          "48.0761397,0.4766285",
+          "48.1751454,0.7568979",
+          "48.202224,0.8893019"
+        ],
+        "leg": [
+          {
+            "start": {
+              "linkId": "-542826215",
+              "mappedPosition": {
+                "latitude": 48.1584835,
+                "longitude": -1.5976095
+              },
+              "originalPosition": {
+                "latitude": 48.059503,
+                "longitude": -1.710794
+              },
+              "type": "stopOver",
+              "spot": 1.0,
+              "sideOfStreet": "neither",
+              "mappedRoadName": "Porte de Normandie",
+              "label": "Porte de Normandie",
+              "shapeIndex": 0
+            },
+            "end": {
+              "linkId": "+1035920377",
+              "mappedPosition": {
+                "latitude": 48.202224,
+                "longitude": 0.8893019
+              },
+              "originalPosition": {
+                "latitude": 48.2022779,
+                "longitude": 0.8892789
+              },
+              "type": "stopOver",
+              "spot": 0.7343358,
+              "sideOfStreet": "left",
+              "mappedRoadName": "L'Océane",
+              "label": "L'Océane - A11",
+              "shapeIndex": 18
+            },
+            "length": 200441,
+            "travelTime": 6233,
+            "maneuver": [
+              {
+                "position": {
+                  "latitude": 48.1584835,
+                  "longitude": -1.5976095
+                },
+                "instruction": "Take ramp onto <span class=\"next-street\">Rocade Est</span> <span class=\"number\">(N136)</span>. <span class=\"distance-description\">Go for <span class=\"length\">5.1 km</span>.</span>",
+                "travelTime": 215,
+                "length": 5081,
+                "shape": [
+                  "48.1584835,-1.5976095",
+                  "48.1214905,-1.5730405"
+                ],
+                "direction": "forward",
+                "id": "M1",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.1214905,
+                  "longitude": -1.5730405
+                },
+                "instruction": "Take <span class=\"direction\">left</span> ramp onto <span class=\"number\">N157</span> toward <span class=\"sign\"><span lang=\"fr\">Laval</span>/<span lang=\"fr\">Le Mans</span>/<span lang=\"fr\">Noyal S/V.</span>/<span lang=\"fr\">Vitré</span></span>. <span class=\"distance-description\">Go for <span class=\"length\">41.3 km</span>.</span>",
+                "travelTime": 1426,
+                "length": 41274,
+                "shape": [
+                  "48.1214905,-1.5730405",
+                  "48.0768692,-1.3110745",
+                  "48.0700135,-1.1781657",
+                  "48.089422,-1.0992765",
+                  "48.0836499,-1.0447741"
+                ],
+                "direction": "bearLeft",
+                "id": "M2",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.0836499,
+                  "longitude": -1.0447741
+                },
+                "instruction": "Keep <span class=\"direction\">left</span> onto <span class=\"number\">A81</span>. <span class=\"distance-description\">Go for <span class=\"length\">93.4 km</span>.</span>",
+                "travelTime": 2802,
+                "length": 93351,
+                "shape": [
+                  "48.0836499,-1.0447741",
+                  "48.0752063,-0.9280336",
+                  "48.1158364,-0.7817137",
+                  "48.0753887,-0.6426895",
+                  "48.0514741,-0.4129529",
+                  "48.0076683,-0.2856445",
+                  "48.002615,-0.1921749",
+                  "48.0450368,0.0963879",
+                  "48.0391896,0.138005"
+                ],
+                "direction": "bearLeft",
+                "id": "M3",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.0391896,
+                  "longitude": 0.138005
+                },
+                "instruction": "Take the <span class=\"direction\">left</span> exit toward <span class=\"sign\"><span lang=\"fr\">Alençon</span>/<span lang=\"fr\">A28</span>/<span lang=\"fr\">Le Mans-Z.I. Nord</span>/<span lang=\"fr\">Paris</span>/<span lang=\"fr\">Tours</span></span> onto <span class=\"number\">A11</span> <span class=\"next-street\">(L'Océane)</span>. <span class=\"distance-description\">Go for <span class=\"length\">60.7 km</span>.</span>",
+                "travelTime": 1790,
+                "length": 60735,
+                "shape": [
+                  "48.0391896,0.138005",
+                  "48.0579543,0.2029788",
+                  "48.0534911,0.3520775",
+                  "48.0761397,0.4766285",
+                  "48.1751454,0.7568979",
+                  "48.202224,0.8893019"
+                ],
+                "direction": "bearLeft",
+                "id": "M4",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.202224,
+                  "longitude": 0.8893019
+                },
+                "instruction": "Arrive at <span class=\"street\">L'Océane</span> <span class=\"number\">(A11)</span>. Your destination is on the left.",
+                "travelTime": 0,
+                "length": 0,
+                "shape": [
+                  "48.202224,0.8893019"
+                ],
+                "direction": "forward",
+                "id": "M5",
+                "_type": "PrivateTransportManeuverType"
+              }
+            ]
+          }
+        ],
+        "summary": {
+          "distance": 200441,
+          "trafficTime": 6495,
+          "baseTime": 6233,
+          "flags": [
+            "tollroad",
+            "motorway",
+            "builtUpArea"
+          ],
+          "text": "The trip takes <span class=\"length\">200 km</span> and <span class=\"time\">1:44 h</span>.",
+          "travelTime": 6233,
+          "_type": "RouteSummaryType"
+        }
+      }
+    ],
+    "language": "en-us"
+  }
+}

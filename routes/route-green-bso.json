@@ -1,0 +1,31 @@
+[{
+	"start": "MRK",
+	"startSite": "Faurecia Marckolsheim",
+	"startDate": "18/09/2017 14:30",
+	"startStatus": {
+		"description": "OK (site fournisseur)",
+		"marker": "green"
+	},
+	"end": "REN",
+	"endSite": "PSA Rennes",
+	"endStatus": {
+		"description": "OK (site PSA)",
+		"marker": "green"
+	},
+	"durationBetweenPointsInMins": 15
+}, {
+	"start": "REN",
+	"startSite": "PSA Rennes",
+	"startDate": "19/09/2017 16:22",
+	"startStatus": {
+		"description": "OK (site PSA)",
+		"marker": "green"
+	},
+	"end": "BSO",
+	"endSite": "Faurecia Bains-sur-Oust",
+	"endStatus": {
+		"description": "OK (site fournisseur)",
+		"marker": "green"
+	},
+	"durationBetweenPointsInMins": 15
+}]

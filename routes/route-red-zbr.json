@@ -1,0 +1,45 @@
+[{
+	"start": "SOC",
+	"startSite": "PSA Sochaux",
+	"startDate": "16/09/2017 11:10",
+	"startStatus": {
+		"description": "OK (site PSA)",
+		"marker": "green"
+	},
+	"end": "MRK",
+	"endSite": "Faurecia Marckolsheim",
+	"endStatus": {
+		"description": "OK (site fournisseur)",
+		"marker": "green"
+	},
+	"durationBetweenPointsInMins": 15
+}, {
+	"start": "MRK",
+	"startSite": "Faurecia Marckolsheim",
+	"startDate": "18/09/2017 15:10",
+	"startStatus": {
+		"description": "OK (site fournisseur)",
+		"marker": "green"
+	},
+	"end": "MER",
+	"endSite": "Faurecia Méru",
+	"endStatus": {
+		"description": "Hors trafic (site fournisseur)",
+		"marker": "orange"
+	},
+	"durationBetweenPointsInMins": 15
+}, {
+	"start": "MER",
+	"startSite": "Faurecia Méru",
+	"startDate": "19/09/2017 12:47",
+	"startStatus": {
+		"description": "Hors trafic (site fournisseur)",
+		"marker": "orange"
+	},
+	"end": "ZBR",
+	"endStatus": {
+		"description": "Immobile (site inconnu)",
+		"marker": "red"
+	},
+	"durationBetweenPointsInMins": 15
+}]

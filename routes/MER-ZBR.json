@@ -1,0 +1,505 @@
+{
+  "response": {
+    "metaInfo": {
+      "timestamp": "2017-09-18T12:47:13Z",
+      "mapVersion": "8.30.73.154",
+      "moduleVersion": "7.2.201736-157412",
+      "interfaceVersion": "2.6.34",
+      "availableMapVersion": [
+        "8.30.73.154"
+      ]
+    },
+    "route": [
+      {
+        "waypoint": [
+          {
+            "linkId": "+70148888",
+            "mappedPosition": {
+              "latitude": 49.2164862,
+              "longitude": 2.1279252
+            },
+            "originalPosition": {
+              "latitude": 49.2219309,
+              "longitude": 2.132378
+            },
+            "type": "stopOver",
+            "spot": 0.0,
+            "sideOfStreet": "neither",
+            "mappedRoadName": "L'Européenne",
+            "label": "L'Européenne - A16",
+            "shapeIndex": 0
+          },
+          {
+            "linkId": "+722591404",
+            "mappedPosition": {
+              "latitude": 51.3376522,
+              "longitude": 3.1795764
+            },
+            "originalPosition": {
+              "latitude": 51.343476,
+              "longitude": 3.177293
+            },
+            "type": "stopOver",
+            "spot": 1.0,
+            "sideOfStreet": "neither",
+            "mappedRoadName": "Albert II Laan",
+            "label": "Albert II Laan",
+            "shapeIndex": 79
+          }
+        ],
+        "mode": {
+          "type": "fastest",
+          "transportModes": [
+            "car"
+          ],
+          "trafficMode": "disabled",
+          "feature": [
+          ]
+        },
+        "shape": [
+          "49.2164862,2.1279252",
+          "49.2386198,2.100395",
+          "49.2682636,2.092005",
+          "49.2954934,2.0717061",
+          "49.3417454,2.1061134",
+          "49.3725049,2.109257",
+          "49.4035113,2.1256936",
+          "49.4257951,2.1276462",
+          "49.4430685,2.1503913",
+          "49.4934297,2.1681905",
+          "49.5171404,2.1859252",
+          "49.5360231,2.1846592",
+          "49.5787883,2.2043359",
+          "49.6002352,2.203424",
+          "49.6467769,2.2164702",
+          "49.6713138,2.2089601",
+          "49.6930504,2.2305787",
+          "49.7125447,2.2399127",
+          "49.7528529,2.2301173",
+          "49.8157346,2.244612",
+          "49.8316669,2.2539032",
+          "49.8446488,2.2455454",
+          "49.849627,2.2421443",
+          "49.8584032,2.2653615",
+          "49.8588753,2.3077297",
+          "49.8513114,2.3393047",
+          "49.8616326,2.3707724",
+          "49.8538649,2.5143993",
+          "49.8603451,2.57815",
+          "49.8535645,2.6299059",
+          "49.8613966,2.6759434",
+          "49.8536289,2.713902",
+          "49.8580492,2.7796805",
+          "49.8512363,2.8073823",
+          "49.852674,2.8275418",
+          "49.8517406,2.8340971",
+          "49.885118,2.838217",
+          "49.9053204,2.8495681",
+          "49.9586105,2.8549325",
+          "50.0262451,2.8846192",
+          "50.079782,2.8702104",
+          "50.181942,2.8743947",
+          "50.2309513,2.8557479",
+          "50.2487504,2.8566062",
+          "50.309422,2.8943717",
+          "50.3591502,2.9596031",
+          "50.3842449,2.9801166",
+          "50.4209375,2.9852343",
+          "50.4495513,2.9708147",
+          "50.4824781,2.9827344",
+          "50.5143964,3.0342007",
+          "50.5916977,3.0988634",
+          "50.6006241,3.1194627",
+          "50.6007421,3.131479",
+          "50.6094646,3.1318545",
+          "50.647434,3.1464779",
+          "50.6596971,3.1154394",
+          "50.6909716,3.1116521",
+          "50.7339728,3.1277883",
+          "50.7582092,3.1523681",
+          "50.76455,3.1685686",
+          "50.764668,3.1691158",
+          "50.7663846,3.1761217",
+          "50.7845378,3.2226098",
+          "50.7891619,3.2339931",
+          "50.8007813,3.214649",
+          "50.846647,3.1742442",
+          "50.8767951,3.1717765",
+          "50.9103012,3.1786001",
+          "50.9355891,3.1726241",
+          "50.9796953,3.1780422",
+          "51.0734439,3.1533551",
+          "51.159457,3.213973",
+          "51.178844,3.2008302",
+          "51.217339,3.1887174",
+          "51.246736,3.1853485",
+          "51.2644601,3.1971288",
+          "51.3312471,3.1832135",
+          "51.3335001,3.181293",
+          "51.3376522,3.1795764"
+        ],
+        "leg": [
+          {
+            "start": {
+              "linkId": "+70148888",
+              "mappedPosition": {
+                "latitude": 49.2164862,
+                "longitude": 2.1279252
+              },
+              "originalPosition": {
+                "latitude": 49.2219309,
+                "longitude": 2.132378
+              },
+              "type": "stopOver",
+              "spot": 0.0,
+              "sideOfStreet": "neither",
+              "mappedRoadName": "L'Européenne",
+              "label": "L'Européenne - A16",
+              "shapeIndex": 0
+            },
+            "end": {
+              "linkId": "+722591404",
+              "mappedPosition": {
+                "latitude": 51.3376522,
+                "longitude": 3.1795764
+              },
+              "originalPosition": {
+                "latitude": 51.343476,
+                "longitude": 3.177293
+              },
+              "type": "stopOver",
+              "spot": 1.0,
+              "sideOfStreet": "neither",
+              "mappedRoadName": "Albert II Laan",
+              "label": "Albert II Laan",
+              "shapeIndex": 79
+            },
+            "length": 303296,
+            "travelTime": 10418,
+            "maneuver": [
+              {
+                "position": {
+                  "latitude": 49.2164862,
+                  "longitude": 2.1279252
+                },
+                "instruction": "Head <span class=\"heading\">northwest</span> on <span class=\"number\">A16</span> <span class=\"street\">(L'Européenne)</span>. <span class=\"distance-description\">Go for <span class=\"length\">74.8 km</span>.</span>",
+                "travelTime": 2228,
+                "length": 74779,
+                "shape": [
+                  "49.2164862,2.1279252",
+                  "49.2386198,2.100395",
+                  "49.2682636,2.092005",
+                  "49.2954934,2.0717061",
+                  "49.3417454,2.1061134",
+                  "49.3725049,2.109257",
+                  "49.4035113,2.1256936",
+                  "49.4257951,2.1276462",
+                  "49.4430685,2.1503913",
+                  "49.4934297,2.1681905",
+                  "49.5171404,2.1859252",
+                  "49.5360231,2.1846592",
+                  "49.5787883,2.2043359",
+                  "49.6002352,2.203424",
+                  "49.6467769,2.2164702",
+                  "49.6713138,2.2089601",
+                  "49.6930504,2.2305787",
+                  "49.7125447,2.2399127",
+                  "49.7528529,2.2301173",
+                  "49.8157346,2.244612",
+                  "49.8316669,2.2539032",
+                  "49.8446488,2.2455454"
+                ],
+                "direction": "forward",
+                "id": "M1",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 49.8446488,
+                  "longitude": 2.2455454
+                },
+                "instruction": "Take the exit toward <span class=\"sign\"><span lang=\"fr\">Saint-Quentin</span>/<span lang=\"fr\">Reims</span>/<span lang=\"fr\">Lille</span>/<span lang=\"fr\">Amiens-Sud</span></span> onto <span class=\"number\">A29</span>. <span class=\"distance-description\">Go for <span class=\"length\">10.8 km</span>.</span>",
+                "travelTime": 403,
+                "length": 10822,
+                "shape": [
+                  "49.8446488,2.2455454",
+                  "49.849627,2.2421443",
+                  "49.8584032,2.2653615",
+                  "49.8588753,2.3077297",
+                  "49.8513114,2.3393047",
+                  "49.8616326,2.3707724"
+                ],
+                "direction": "bearRight",
+                "id": "M2",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 49.8616326,
+                  "longitude": 2.3707724
+                },
+                "instruction": "Take the exit toward <span class=\"sign\"><span lang=\"fr\">Paris</span>/<span lang=\"fr\">Lille</span>/<span lang=\"fr\">Reims</span>/<span lang=\"fr\">St Quentin</span>/<span lang=\"fr\">Péage</span></span> onto <span class=\"number\">A29</span>. <span class=\"distance-description\">Go for <span class=\"length\">32.3 km</span>.</span>",
+                "travelTime": 1015,
+                "length": 32344,
+                "shape": [
+                  "49.8616326,2.3707724",
+                  "49.8538649,2.5143993",
+                  "49.8603451,2.57815",
+                  "49.8535645,2.6299059",
+                  "49.8613966,2.6759434",
+                  "49.8536289,2.713902",
+                  "49.8580492,2.7796805",
+                  "49.8512363,2.8073823"
+                ],
+                "direction": "bearRight",
+                "id": "M3",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 49.8512363,
+                  "longitude": 2.8073823
+                },
+                "instruction": "Take the exit toward <span class=\"sign\"><span lang=\"fr\">Paris</span>/<span lang=\"fr\">Lille</span>/<span lang=\"fr\">Bruxelles</span>/<span lang=\"fr\">Péronne</span></span>. <span class=\"distance-description\">Go for <span class=\"length\">1.9 km</span>.</span>",
+                "travelTime": 115,
+                "length": 1855,
+                "shape": [
+                  "49.8512363,2.8073823",
+                  "49.852674,2.8275418"
+                ],
+                "direction": "bearRight",
+                "id": "M4",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 49.852674,
+                  "longitude": 2.8275418
+                },
+                "instruction": "Take the <span class=\"direction\">left</span> exit toward <span class=\"sign\"><span lang=\"fr\">Lille</span>/<span lang=\"fr\">Calais</span>/<span lang=\"fr\">Bruxelles</span>/<span lang=\"fr\">Péronne</span></span> onto <span class=\"number\">A1</span> <span class=\"next-street\">(Autoroute du Nord)</span>. <span class=\"distance-description\">Go for <span class=\"length\">89.4 km</span>.</span>",
+                "travelTime": 2908,
+                "length": 89423,
+                "shape": [
+                  "49.852674,2.8275418",
+                  "49.8517406,2.8340971",
+                  "49.885118,2.838217",
+                  "49.9053204,2.8495681",
+                  "49.9586105,2.8549325",
+                  "50.0262451,2.8846192",
+                  "50.079782,2.8702104",
+                  "50.181942,2.8743947",
+                  "50.2309513,2.8557479",
+                  "50.2487504,2.8566062",
+                  "50.309422,2.8943717",
+                  "50.3591502,2.9596031",
+                  "50.3842449,2.9801166",
+                  "50.4209375,2.9852343",
+                  "50.4495513,2.9708147",
+                  "50.4824781,2.9827344",
+                  "50.5143964,3.0342007",
+                  "50.5916977,3.0988634"
+                ],
+                "direction": "bearLeft",
+                "id": "M5",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 50.5916977,
+                  "longitude": 3.0988634
+                },
+                "instruction": "Take the exit toward <span class=\"sign\"><span lang=\"fr\">Bruxelles</span>/<span lang=\"fr\">Gand (Gent)</span>/<span lang=\"fr\">Roubaix</span>/<span lang=\"fr\">Villeneuve d'Ascq</span></span> onto <span class=\"number\">A27</span> <span class=\"next-street\">(Échangeur de Ronchin)</span>. <span class=\"distance-description\">Go for <span class=\"length\">1.9 km</span>.</span>",
+                "travelTime": 82,
+                "length": 1905,
+                "shape": [
+                  "50.5916977,3.0988634",
+                  "50.6006241,3.1194627"
+                ],
+                "direction": "bearRight",
+                "id": "M6",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 50.6006241,
+                  "longitude": 3.1194627
+                },
+                "instruction": "Take the exit toward <span class=\"sign\"><span lang=\"fr\">Roubaix</span>/<span lang=\"fr\">Villeneuve d'Ascq</span></span> onto <span class=\"number\">N227</span> <span class=\"next-street\">(Boulevard du Breucq)</span>. <span class=\"distance-description\">Go for <span class=\"length\">1.9 km</span>.</span>",
+                "travelTime": 95,
+                "length": 1920,
+                "shape": [
+                  "50.6006241,3.1194627",
+                  "50.6007421,3.131479",
+                  "50.6094646,3.1318545"
+                ],
+                "direction": "bearRight",
+                "id": "M7",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 50.6094646,
+                  "longitude": 3.1318545
+                },
+                "instruction": "Keep <span class=\"direction\">left</span> onto <span class=\"next-street\">Boulevard du Breucq</span> <span class=\"number\">(N227)</span> toward <span class=\"sign\"><span lang=\"fr\">Gand (Gent)</span>/<span lang=\"fr\">Tourcoing</span>/<span lang=\"fr\">Roubaix</span>/<span lang=\"fr\">Villeneuve-Autres Quartiers</span>/<span lang=\"fr\">Stadium Lille Métropole</span>/<span lang=\"fr\">A22</span></span>. <span class=\"distance-description\">Go for <span class=\"length\">20.2 km</span>.</span>",
+                "travelTime": 844,
+                "length": 20159,
+                "shape": [
+                  "50.6094646,3.1318545",
+                  "50.647434,3.1464779",
+                  "50.6596971,3.1154394",
+                  "50.6909716,3.1116521",
+                  "50.7339728,3.1277883",
+                  "50.7582092,3.1523681",
+                  "50.76455,3.1685686"
+                ],
+                "direction": "bearLeft",
+                "id": "M8",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 50.76455,
+                  "longitude": 3.1685686
+                },
+                "instruction": "Continue on <span class=\"number\">E17</span>. <span class=\"distance-description\">Go for <span class=\"length\">41 m</span>.</span>",
+                "travelTime": 3,
+                "length": 41,
+                "shape": [
+                  "50.76455,3.1685686",
+                  "50.764668,3.1691158"
+                ],
+                "direction": "forward",
+                "id": "M9",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 50.764668,
+                  "longitude": 3.1691158
+                },
+                "instruction": "Keep <span class=\"direction\">left</span> onto <span class=\"number\">E17</span>. <span class=\"distance-description\">Go for <span class=\"length\">528 m</span>.</span>",
+                "travelTime": 38,
+                "length": 528,
+                "shape": [
+                  "50.764668,3.1691158",
+                  "50.7663846,3.1761217"
+                ],
+                "direction": "bearLeft",
+                "id": "M10",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 50.7663846,
+                  "longitude": 3.1761217
+                },
+                "instruction": "Keep <span class=\"direction\">left</span> onto <span class=\"number\">E17</span>. <span class=\"distance-description\">Go for <span class=\"length\">3.9 km</span>.</span>",
+                "travelTime": 144,
+                "length": 3861,
+                "shape": [
+                  "50.7663846,3.1761217",
+                  "50.7845378,3.2226098"
+                ],
+                "direction": "bearLeft",
+                "id": "M11",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 50.7845378,
+                  "longitude": 3.2226098
+                },
+                "instruction": "Take the exit toward <span class=\"sign\"><span lang=\"nl\">Brugge</span>/<span lang=\"nl\">A19</span>/<span lang=\"nl\">Ieper</span>/<span lang=\"nl\">Menen</span></span> onto <span class=\"number\">E403</span>. <span class=\"distance-description\">Go for <span class=\"length\">64.9 km</span>.</span>",
+                "travelTime": 2478,
+                "length": 64865,
+                "shape": [
+                  "50.7845378,3.2226098",
+                  "50.7891619,3.2339931",
+                  "50.8007813,3.214649",
+                  "50.846647,3.1742442",
+                  "50.8767951,3.1717765",
+                  "50.9103012,3.1786001",
+                  "50.9355891,3.1726241",
+                  "50.9796953,3.1780422",
+                  "51.0734439,3.1533551",
+                  "51.159457,3.213973",
+                  "51.178844,3.2008302",
+                  "51.217339,3.1887174",
+                  "51.246736,3.1853485",
+                  "51.2644601,3.1971288",
+                  "51.3312471,3.1832135"
+                ],
+                "direction": "bearRight",
+                "id": "M12",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 51.3312471,
+                  "longitude": 3.1832135
+                },
+                "instruction": "Take the <span class=\"exit\">1st exit</span> from Posterijenplein roundabout onto <span class=\"next-street\">Pieter Troostlaan</span> toward <span class=\"sign\"><span lang=\"nl\">Kaaien 100-199</span>/<span lang=\"nl\">Apm Terminals</span>/<span lang=\"nl\">Zeestation</span>/<span lang=\"nl\">Hull P&O</span>/<span lang=\"nl\">Ferries</span>/<span lang=\"nl\">Kaai 106-107</span>/<span lang=\"nl\">F.A.V.V</span>/<span lang=\"nl\">Cruises</span>/<span lang=\"nl\">Cdmc</span></span>. <span class=\"distance-description\">Go for <span class=\"length\">297 m</span>.</span>",
+                "travelTime": 29,
+                "length": 297,
+                "shape": [
+                  "51.3312471,3.1832135",
+                  "51.3335001,3.181293"
+                ],
+                "direction": "right",
+                "id": "M13",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 51.3335001,
+                  "longitude": 3.181293
+                },
+                "instruction": "Continue on <span class=\"next-street\">Albert II Laan</span> toward <span class=\"sign\"><span lang=\"nl\">Kaaien 100-139</span></span>. <span class=\"distance-description\">Go for <span class=\"length\">497 m</span>.</span>",
+                "travelTime": 36,
+                "length": 497,
+                "shape": [
+                  "51.3335001,3.181293",
+                  "51.3376522,3.1795764"
+                ],
+                "direction": "forward",
+                "id": "M14",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 51.3376522,
+                  "longitude": 3.1795764
+                },
+                "instruction": "Arrive at <span class=\"street\">Albert II Laan</span>.",
+                "travelTime": 0,
+                "length": 0,
+                "shape": [
+                  "51.3376522,3.1795764"
+                ],
+                "direction": "forward",
+                "id": "M15",
+                "_type": "PrivateTransportManeuverType"
+              }
+            ]
+          }
+        ],
+        "summary": {
+          "distance": 303296,
+          "trafficTime": 10840,
+          "baseTime": 10418,
+          "flags": [
+            "tollroad",
+            "tunnel",
+            "motorway",
+            "builtUpArea"
+          ],
+          "text": "The trip takes <span class=\"length\">303 km</span> and <span class=\"time\">2:54 h</span>.",
+          "travelTime": 10418,
+          "_type": "RouteSummaryType"
+        }
+      }
+    ],
+    "language": "en-us"
+  }
+}

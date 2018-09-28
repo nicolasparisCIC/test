@@ -1,0 +1,903 @@
+{
+  "response": {
+    "metaInfo": {
+      "timestamp": "2017-09-18T08:25:24Z",
+      "mapVersion": "8.30.73.154",
+      "moduleVersion": "7.2.201736-157412",
+      "interfaceVersion": "2.6.34",
+      "availableMapVersion": [
+        "8.30.73.154"
+      ]
+    },
+    "route": [
+      {
+        "waypoint": [
+          {
+            "linkId": "+569973285",
+            "mappedPosition": {
+              "latitude": 48.0632122,
+              "longitude": -1.7185991
+            },
+            "originalPosition": {
+              "latitude": 48.059503,
+              "longitude": -1.710794
+            },
+            "type": "stopOver",
+            "spot": 0.50358,
+            "sideOfStreet": "neither",
+            "mappedRoadName": "",
+            "label": "D177",
+            "shapeIndex": 0
+          },
+          {
+            "linkId": "-1172577191",
+            "mappedPosition": {
+              "latitude": 48.1608558,
+              "longitude": 7.5622223
+            },
+            "originalPosition": {
+              "latitude": 48.154479,
+              "longitude": 7.552821
+            },
+            "type": "stopOver",
+            "spot": 0.1513944,
+            "sideOfStreet": "neither",
+            "mappedRoadName": "",
+            "label": "D424",
+            "shapeIndex": 203
+          }
+        ],
+        "mode": {
+          "type": "fastest",
+          "transportModes": [
+            "car"
+          ],
+          "trafficMode": "disabled",
+          "feature": [
+          ]
+        },
+        "shape": [
+          "48.0632122,-1.7185991",
+          "48.0736935,-1.7121935",
+          "48.0894113,-1.7058957",
+          "48.0788434,-1.6939652",
+          "48.0817938,-1.6474128",
+          "48.1154501,-1.5698433",
+          "48.1037128,-1.4954174",
+          "48.100698,-1.4231157",
+          "48.077352,-1.3156772",
+          "48.0720305,-1.2350285",
+          "48.0710757,-1.1651087",
+          "48.0896151,-1.0970449",
+          "48.0836499,-1.0447741",
+          "48.0752063,-0.9280336",
+          "48.0900121,-0.8657312",
+          "48.1106007,-0.8237278",
+          "48.1158364,-0.7817137",
+          "48.0959451,-0.694263",
+          "48.0753887,-0.6426895",
+          "48.0692947,-0.5570734",
+          "48.0507767,-0.4577351",
+          "48.0514741,-0.4129529",
+          "48.0076683,-0.2856445",
+          "48.0114019,-0.2395856",
+          "48.002615,-0.1921749",
+          "48.0134618,-0.1337349",
+          "48.0143094,-0.0662827",
+          "48.0342543,0.0120163",
+          "48.0450368,0.0963879",
+          "48.0391896,0.138005",
+          "48.0579543,0.2029788",
+          "48.0492854,0.2754629",
+          "48.0534911,0.3520775",
+          "48.0761397,0.4766285",
+          "48.1068885,0.5531466",
+          "48.1918502,0.8162606",
+          "48.2044566,0.9200406",
+          "48.2260001,0.9793389",
+          "48.2432199,1.1045229",
+          "48.2725203,1.1663854",
+          "48.2877767,1.2598014",
+          "48.3132577,1.3183594",
+          "48.335048,1.3955748",
+          "48.3817184,1.4878428",
+          "48.4132183,1.504966",
+          "48.4607041,1.5480638",
+          "48.479383,1.6347313",
+          "48.5044348,1.707859",
+          "48.5253775,1.8304789",
+          "48.5505044,1.9216526",
+          "48.5688722,1.9886434",
+          "48.6000931,2.0614171",
+          "48.616358,2.1253932",
+          "48.6858058,2.2146249",
+          "48.7003005,2.2463393",
+          "48.7185609,2.2558451",
+          "48.7107074,2.2880101",
+          "48.7330878,2.3124826",
+          "48.7383449,2.3193061",
+          "48.7526786,2.3314404",
+          "48.7536228,2.3548079",
+          "48.7536871,2.3799348",
+          "48.7577748,2.3841298",
+          "48.7697053,2.3804712",
+          "48.7779558,2.4405205",
+          "48.8104749,2.4491251",
+          "48.8257527,2.4648106",
+          "48.8288963,2.4793482",
+          "48.8264394,2.5220597",
+          "48.8365674,2.5443006",
+          "48.8286924,2.7287936",
+          "48.8364923,2.8111374",
+          "48.8669407,2.8528941",
+          "48.8971746,2.9139519",
+          "48.9284384,3.0197167",
+          "48.9802802,3.0760002",
+          "49.0105999,3.1472933",
+          "49.0311348,3.1731069",
+          "49.0400076,3.2013774",
+          "49.0509081,3.309921",
+          "49.0746617,3.3520746",
+          "49.0802193,3.4007514",
+          "49.1248941,3.5299695",
+          "49.1288853,3.5905337",
+          "49.1465235,3.6432016",
+          "49.1540122,3.7107289",
+          "49.1682172,3.7392569",
+          "49.2051566,3.7697804",
+          "49.2302513,3.8325763",
+          "49.2429435,3.8919067",
+          "49.24716,3.9530933",
+          "49.2411089,3.9672554",
+          "49.2207348,3.9761066",
+          "49.205811,4.0133679",
+          "49.2106712,4.0488696",
+          "49.2072701,4.0794146",
+          "49.1882586,4.1417277",
+          "49.1640329,4.1884947",
+          "49.1182852,4.2461836",
+          "49.0731919,4.2665577",
+          "49.0491378,4.2988193",
+          "49.0340853,4.3623018",
+          "49.0357697,4.4287026",
+          "49.0267897,4.5106816",
+          "49.0372396,4.6256089",
+          "49.0690827,4.7417164",
+          "49.0775907,4.8249507",
+          "49.0720654,4.8976493",
+          "49.0923214,4.9837267",
+          "49.0914953,5.0107527",
+          "49.0993702,5.0274146",
+          "49.0871072,5.1656342",
+          "49.0984154,5.3035319",
+          "49.1190898,5.3893948",
+          "49.1072881,5.4225147",
+          "49.1216111,5.4867804",
+          "49.1188216,5.5431712",
+          "49.1106355,5.5686736",
+          "49.1252053,5.6076193",
+          "49.128778,5.6604588",
+          "49.1384983,5.6942332",
+          "49.1739249,5.7628548",
+          "49.1857481,5.8074439",
+          "49.2040944,5.9508669",
+          "49.1971529,5.9848344",
+          "49.183538,6.0079336",
+          "49.1791177,6.045506",
+          "49.1846967,6.0796881",
+          "49.2012405,6.1054158",
+          "49.2071414,6.1293626",
+          "49.1959298,6.1521506",
+          "49.1986549,6.2036705",
+          "49.1826797,6.2430239",
+          "49.1589153,6.253109",
+          "49.1354942,6.2473261",
+          "49.1284561,6.2557268",
+          "49.1262352,6.2754786",
+          "49.1418779,6.4316046",
+          "49.1407835,6.4784253",
+          "49.131707,6.519978",
+          "49.1378009,6.6328883",
+          "49.1317821,6.6743875",
+          "49.1389275,6.7573643",
+          "49.1339171,6.7790151",
+          "49.1389596,6.8139696",
+          "49.1221046,6.8273699",
+          "49.1023529,6.8651998",
+          "49.0787065,6.884855",
+          "49.0589011,6.9649029",
+          "49.0486228,6.9843221",
+          "49.0417457,7.0136011",
+          "49.0429151,7.0451331",
+          "49.0342462,7.0637798",
+          "49.0158033,7.0712471",
+          "48.9797115,7.0627284",
+          "48.9301229,7.1168983",
+          "48.8996315,7.1254599",
+          "48.8796222,7.1194518",
+          "48.8551283,7.1214366",
+          "48.8124919,7.1589768",
+          "48.7920642,7.214005",
+          "48.7763572,7.2358918",
+          "48.772881,7.3277843",
+          "48.7604678,7.3515058",
+          "48.7777948,7.4081004",
+          "48.7695551,7.4762177",
+          "48.770982,7.6298332",
+          "48.7624311,7.6615798",
+          "48.7483549,7.6840675",
+          "48.7138832,7.6989806",
+          "48.6952686,7.7232063",
+          "48.676815,7.7347934",
+          "48.6564946,7.7368319",
+          "48.6312711,7.7236247",
+          "48.6036336,7.7294827",
+          "48.5954368,7.740072",
+          "48.583678,7.7240968",
+          "48.5547423,7.7324545",
+          "48.5384667,7.7179706",
+          "48.5274053,7.6857841",
+          "48.5224593,7.5927973",
+          "48.5214078,7.5904262",
+          "48.5186934,7.5798583",
+          "48.5078251,7.5798583",
+          "48.4967852,7.5605679",
+          "48.4645236,7.5301945",
+          "48.4534085,7.5084472",
+          "48.4197736,7.4853051",
+          "48.3933055,7.4757886",
+          "48.3728349,7.481904",
+          "48.3531904,7.5007224",
+          "48.3304882,7.4978364",
+          "48.2889247,7.4608541",
+          "48.2661688,7.4218547",
+          "48.2657719,7.4183571",
+          "48.2618344,7.4207819",
+          "48.2565451,7.4240649",
+          "48.2493353,7.436682",
+          "48.2465994,7.4589121",
+          "48.2402587,7.4763787",
+          "48.2038987,7.5204635",
+          "48.1726563,7.548455",
+          "48.1649852,7.5564158",
+          "48.16064,7.5626171"
+        ],
+        "leg": [
+          {
+            "start": {
+              "linkId": "+569973285",
+              "mappedPosition": {
+                "latitude": 48.0632122,
+                "longitude": -1.7185991
+              },
+              "originalPosition": {
+                "latitude": 48.059503,
+                "longitude": -1.710794
+              },
+              "type": "stopOver",
+              "spot": 0.50358,
+              "sideOfStreet": "neither",
+              "mappedRoadName": "",
+              "label": "D177",
+              "shapeIndex": 0
+            },
+            "end": {
+              "linkId": "-1172577191",
+              "mappedPosition": {
+                "latitude": 48.1608558,
+                "longitude": 7.5622223
+              },
+              "originalPosition": {
+                "latitude": 48.154479,
+                "longitude": 7.552821
+              },
+              "type": "stopOver",
+              "spot": 0.1513944,
+              "sideOfStreet": "neither",
+              "mappedRoadName": "",
+              "label": "D424",
+              "shapeIndex": 203
+            },
+            "length": 899265,
+            "travelTime": 29562,
+            "maneuver": [
+              {
+                "position": {
+                  "latitude": 48.0632122,
+                  "longitude": -1.7185991
+                },
+                "instruction": "Head <span class=\"heading\">northeast</span> on <span class=\"number\">D177</span>. <span class=\"distance-description\">Go for <span class=\"length\">1.3 km</span>.</span>",
+                "travelTime": 72,
+                "length": 1296,
+                "shape": [
+                  "48.0632122,-1.7185991",
+                  "48.0736935,-1.7121935"
+                ],
+                "direction": "forward",
+                "id": "M1",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.0736935,
+                  "longitude": -1.7121935
+                },
+                "instruction": "Pass <span class=\"roundabout-count\">4</span> roundabouts and continue on <span class=\"next-street\">Avenue Roger Dodin</span> <span class=\"number\">(D177)</span>. <span class=\"distance-description\">Go for <span class=\"length\">1.9 km</span>.</span>",
+                "travelTime": 197,
+                "length": 1935,
+                "shape": [
+                  "48.0736935,-1.7121935",
+                  "48.0894113,-1.7058957"
+                ],
+                "direction": "forward",
+                "id": "M2",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.0894113,
+                  "longitude": -1.7058957
+                },
+                "instruction": "Take the <span class=\"exit\">2nd exit</span> from roundabout onto <span class=\"next-street\">Rocade Ouest</span> <span class=\"number\">(N136)</span> toward <span class=\"sign\"><span lang=\"fr\">Nantes</span>/<span lang=\"fr\">Angers</span>/<span lang=\"fr\">Le Mans</span></span>. <span class=\"distance-description\">Go for <span class=\"length\">52.3 km</span>.</span>",
+                "travelTime": 1932,
+                "length": 52324,
+                "shape": [
+                  "48.0894113,-1.7058957",
+                  "48.0788434,-1.6939652",
+                  "48.0817938,-1.6474128",
+                  "48.1154501,-1.5698433",
+                  "48.1037128,-1.4954174",
+                  "48.100698,-1.4231157",
+                  "48.077352,-1.3156772",
+                  "48.0720305,-1.2350285",
+                  "48.0710757,-1.1651087",
+                  "48.0896151,-1.0970449",
+                  "48.0836499,-1.0447741"
+                ],
+                "direction": "right",
+                "id": "M3",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.0836499,
+                  "longitude": -1.0447741
+                },
+                "instruction": "Keep <span class=\"direction\">left</span> onto <span class=\"number\">A81</span>. <span class=\"distance-description\">Go for <span class=\"length\">93.4 km</span>.</span>",
+                "travelTime": 2802,
+                "length": 93351,
+                "shape": [
+                  "48.0836499,-1.0447741",
+                  "48.0752063,-0.9280336",
+                  "48.0900121,-0.8657312",
+                  "48.1106007,-0.8237278",
+                  "48.1158364,-0.7817137",
+                  "48.0959451,-0.694263",
+                  "48.0753887,-0.6426895",
+                  "48.0692947,-0.5570734",
+                  "48.0507767,-0.4577351",
+                  "48.0514741,-0.4129529",
+                  "48.0076683,-0.2856445",
+                  "48.0114019,-0.2395856",
+                  "48.002615,-0.1921749",
+                  "48.0134618,-0.1337349",
+                  "48.0143094,-0.0662827",
+                  "48.0342543,0.0120163",
+                  "48.0450368,0.0963879",
+                  "48.0391896,0.138005"
+                ],
+                "direction": "bearLeft",
+                "id": "M4",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.0391896,
+                  "longitude": 0.138005
+                },
+                "instruction": "Take the <span class=\"direction\">left</span> exit toward <span class=\"sign\"><span lang=\"fr\">Alençon</span>/<span lang=\"fr\">A28</span>/<span lang=\"fr\">Le Mans-Z.I. Nord</span>/<span lang=\"fr\">Paris</span>/<span lang=\"fr\">Tours</span></span> onto <span class=\"number\">A11</span> <span class=\"next-street\">(L'Océane)</span>. <span class=\"distance-description\">Go for <span class=\"length\">150 km</span>.</span>",
+                "travelTime": 4393,
+                "length": 150003,
+                "shape": [
+                  "48.0391896,0.138005",
+                  "48.0579543,0.2029788",
+                  "48.0492854,0.2754629",
+                  "48.0534911,0.3520775",
+                  "48.0761397,0.4766285",
+                  "48.1068885,0.5531466",
+                  "48.1918502,0.8162606",
+                  "48.2044566,0.9200406",
+                  "48.2260001,0.9793389",
+                  "48.2432199,1.1045229",
+                  "48.2725203,1.1663854",
+                  "48.2877767,1.2598014",
+                  "48.3132577,1.3183594",
+                  "48.335048,1.3955748",
+                  "48.3817184,1.4878428",
+                  "48.4132183,1.504966",
+                  "48.4607041,1.5480638",
+                  "48.479383,1.6347313",
+                  "48.5044348,1.707859",
+                  "48.5253775,1.8304789",
+                  "48.5505044,1.9216526"
+                ],
+                "direction": "bearLeft",
+                "id": "M5",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.5505044,
+                  "longitude": 1.9216526
+                },
+                "instruction": "Keep <span class=\"direction\">right</span> onto <span class=\"number\">A10</span> <span class=\"next-street\">(L'Aquitaine)</span>. <span class=\"distance-description\">Go for <span class=\"length\">37.8 km</span>.</span>",
+                "travelTime": 1401,
+                "length": 37779,
+                "shape": [
+                  "48.5505044,1.9216526",
+                  "48.5688722,1.9886434",
+                  "48.6000931,2.0614171",
+                  "48.616358,2.1253932",
+                  "48.6858058,2.2146249",
+                  "48.7003005,2.2463393",
+                  "48.7185609,2.2558451",
+                  "48.7107074,2.2880101",
+                  "48.7330878,2.3124826"
+                ],
+                "direction": "bearRight",
+                "id": "M6",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.7330878,
+                  "longitude": 2.3124826
+                },
+                "instruction": "Keep <span class=\"direction\">right</span> toward <span class=\"sign\"><span lang=\"fr\">A6 B</span>/<span lang=\"fr\">E15</span>/<span lang=\"fr\">A86</span>/<span lang=\"fr\">A1</span>/<span lang=\"fr\">Lille</span>/<span lang=\"fr\">Rungis</span>/<span lang=\"fr\">Aéroport Orly</span></span>. <span class=\"distance-description\">Go for <span class=\"length\">780 m</span>.</span>",
+                "travelTime": 38,
+                "length": 780,
+                "shape": [
+                  "48.7330878,2.3124826",
+                  "48.7383449,2.3193061"
+                ],
+                "direction": "bearRight",
+                "id": "M7",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.7383449,
+                  "longitude": 2.3193061
+                },
+                "instruction": "Continue on <span class=\"number\">A6 B</span>. <span class=\"distance-description\">Go for <span class=\"length\">1.8 km</span>.</span>",
+                "travelTime": 77,
+                "length": 1828,
+                "shape": [
+                  "48.7383449,2.3193061",
+                  "48.7526786,2.3314404"
+                ],
+                "direction": "forward",
+                "id": "M8",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.7526786,
+                  "longitude": 2.3314404
+                },
+                "instruction": "Take the exit toward <span class=\"sign\"><span lang=\"fr\">Lille</span>/<span lang=\"fr\">Metz-Nancy</span>/<span lang=\"fr\">Créteil</span>/<span lang=\"fr\">Aéroport Orly</span>/<span lang=\"fr\">Rungis</span></span> onto <span class=\"number\">N186</span>. <span class=\"distance-description\">Go for <span class=\"length\">1.9 km</span>.</span>",
+                "travelTime": 104,
+                "length": 1867,
+                "shape": [
+                  "48.7526786,2.3314404",
+                  "48.7536228,2.3548079"
+                ],
+                "direction": "bearRight",
+                "id": "M9",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.7536228,
+                  "longitude": 2.3548079
+                },
+                "instruction": "Keep <span class=\"direction\">left</span> onto <span class=\"number\">N186</span> toward <span class=\"sign\"><span lang=\"fr\">Lille</span>/<span lang=\"fr\">Metz-Nancy</span>/<span lang=\"fr\">Créteil</span></span>. <span class=\"distance-description\">Go for <span class=\"length\">1.9 km</span>.</span>",
+                "travelTime": 81,
+                "length": 1856,
+                "shape": [
+                  "48.7536228,2.3548079",
+                  "48.7536871,2.3799348"
+                ],
+                "direction": "bearLeft",
+                "id": "M10",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.7536871,
+                  "longitude": 2.3799348
+                },
+                "instruction": "Keep <span class=\"direction\">left</span> onto <span class=\"number\">A86</span> toward <span class=\"sign\"><span lang=\"fr\">Lille-Metz-Nancy</span>/<span lang=\"fr\">Vitry-Créteil</span>/<span lang=\"fr\">Thiais-Centre</span></span>. <span class=\"distance-description\">Go for <span class=\"length\">10.4 km</span>.</span>",
+                "travelTime": 473,
+                "length": 10399,
+                "shape": [
+                  "48.7536871,2.3799348",
+                  "48.7577748,2.3841298",
+                  "48.7697053,2.3804712",
+                  "48.7779558,2.4405205",
+                  "48.8104749,2.4491251"
+                ],
+                "direction": "bearLeft",
+                "id": "M11",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.8104749,
+                  "longitude": 2.4491251
+                },
+                "instruction": "Keep <span class=\"direction\">left</span> onto <span class=\"number\">A86</span> toward <span class=\"sign\"><span lang=\"fr\">A1</span>/<span lang=\"fr\">Lille</span>/<span lang=\"fr\">Metz-Nancy</span>/<span lang=\"fr\">Marne la Vallée</span>/<span lang=\"fr\">Bobigny</span>/<span lang=\"fr\">Nogent S/Marne</span></span>. <span class=\"distance-description\">Go for <span class=\"length\">3.4 km</span>.</span>",
+                "travelTime": 190,
+                "length": 3351,
+                "shape": [
+                  "48.8104749,2.4491251",
+                  "48.8257527,2.4648106",
+                  "48.8288963,2.4793482"
+                ],
+                "direction": "bearLeft",
+                "id": "M12",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.8288963,
+                  "longitude": 2.4793482
+                },
+                "instruction": "Keep <span class=\"direction\">left</span> onto <span class=\"number\">A4</span> <span class=\"next-street\">(Autoroute de l'Est)</span> toward <span class=\"sign\"><span lang=\"fr\">A5</span>/<span lang=\"fr\">Troyes</span>/<span lang=\"fr\">Metz</span>/<span lang=\"fr\">Marne la Vallée</span>/<span lang=\"fr\">Champigny-Centre</span>/<span lang=\"fr\">Nancy</span></span>. <span class=\"distance-description\">Go for <span class=\"length\">472 km</span>.</span>",
+                "travelTime": 14875,
+                "length": 472453,
+                "shape": [
+                  "48.8288963,2.4793482",
+                  "48.8264394,2.5220597",
+                  "48.8365674,2.5443006",
+                  "48.8286924,2.7287936",
+                  "48.8364923,2.8111374",
+                  "48.8669407,2.8528941",
+                  "48.8971746,2.9139519",
+                  "48.9284384,3.0197167",
+                  "48.9802802,3.0760002",
+                  "49.0105999,3.1472933",
+                  "49.0311348,3.1731069",
+                  "49.0400076,3.2013774",
+                  "49.0509081,3.309921",
+                  "49.0746617,3.3520746",
+                  "49.0802193,3.4007514",
+                  "49.1248941,3.5299695",
+                  "49.1288853,3.5905337",
+                  "49.1465235,3.6432016",
+                  "49.1540122,3.7107289",
+                  "49.1682172,3.7392569",
+                  "49.2051566,3.7697804",
+                  "49.2302513,3.8325763",
+                  "49.2429435,3.8919067",
+                  "49.24716,3.9530933",
+                  "49.2411089,3.9672554",
+                  "49.2207348,3.9761066",
+                  "49.205811,4.0133679",
+                  "49.2106712,4.0488696",
+                  "49.2072701,4.0794146",
+                  "49.1882586,4.1417277",
+                  "49.1640329,4.1884947",
+                  "49.1182852,4.2461836",
+                  "49.0731919,4.2665577",
+                  "49.0491378,4.2988193",
+                  "49.0340853,4.3623018",
+                  "49.0357697,4.4287026",
+                  "49.0267897,4.5106816",
+                  "49.0372396,4.6256089",
+                  "49.0690827,4.7417164",
+                  "49.0775907,4.8249507",
+                  "49.0720654,4.8976493",
+                  "49.0923214,4.9837267",
+                  "49.0914953,5.0107527",
+                  "49.0993702,5.0274146",
+                  "49.0871072,5.1656342",
+                  "49.0984154,5.3035319",
+                  "49.1190898,5.3893948",
+                  "49.1072881,5.4225147",
+                  "49.1216111,5.4867804",
+                  "49.1188216,5.5431712",
+                  "49.1106355,5.5686736",
+                  "49.1252053,5.6076193",
+                  "49.128778,5.6604588",
+                  "49.1384983,5.6942332",
+                  "49.1739249,5.7628548",
+                  "49.1857481,5.8074439",
+                  "49.2040944,5.9508669",
+                  "49.1971529,5.9848344",
+                  "49.183538,6.0079336",
+                  "49.1791177,6.045506",
+                  "49.1846967,6.0796881",
+                  "49.2012405,6.1054158",
+                  "49.2071414,6.1293626",
+                  "49.1959298,6.1521506",
+                  "49.1986549,6.2036705",
+                  "49.1826797,6.2430239",
+                  "49.1589153,6.253109",
+                  "49.1354942,6.2473261",
+                  "49.1284561,6.2557268",
+                  "49.1262352,6.2754786",
+                  "49.1418779,6.4316046",
+                  "49.1407835,6.4784253",
+                  "49.131707,6.519978",
+                  "49.1378009,6.6328883",
+                  "49.1317821,6.6743875",
+                  "49.1389275,6.7573643",
+                  "49.1339171,6.7790151",
+                  "49.1389596,6.8139696",
+                  "49.1221046,6.8273699",
+                  "49.1023529,6.8651998",
+                  "49.0787065,6.884855",
+                  "49.0589011,6.9649029",
+                  "49.0486228,6.9843221",
+                  "49.0417457,7.0136011",
+                  "49.0429151,7.0451331",
+                  "49.0342462,7.0637798",
+                  "49.0158033,7.0712471",
+                  "48.9797115,7.0627284",
+                  "48.9301229,7.1168983",
+                  "48.8996315,7.1254599",
+                  "48.8796222,7.1194518",
+                  "48.8551283,7.1214366",
+                  "48.8124919,7.1589768",
+                  "48.7920642,7.214005",
+                  "48.7763572,7.2358918",
+                  "48.772881,7.3277843",
+                  "48.7604678,7.3515058",
+                  "48.7777948,7.4081004",
+                  "48.7695551,7.4762177",
+                  "48.770982,7.6298332",
+                  "48.7624311,7.6615798",
+                  "48.7483549,7.6840675",
+                  "48.7138832,7.6989806",
+                  "48.6952686,7.7232063",
+                  "48.676815,7.7347934",
+                  "48.6564946,7.7368319",
+                  "48.6312711,7.7236247",
+                  "48.6036336,7.7294827"
+                ],
+                "direction": "bearLeft",
+                "id": "M13",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.6036336,
+                  "longitude": 7.7294827
+                },
+                "instruction": "Continue on <span class=\"number\">A35</span>. <span class=\"distance-description\">Go for <span class=\"length\">18.4 km</span>.</span>",
+                "travelTime": 748,
+                "length": 18358,
+                "shape": [
+                  "48.6036336,7.7294827",
+                  "48.5954368,7.740072",
+                  "48.583678,7.7240968",
+                  "48.5547423,7.7324545",
+                  "48.5384667,7.7179706",
+                  "48.5274053,7.6857841",
+                  "48.5224593,7.5927973"
+                ],
+                "direction": "forward",
+                "id": "M14",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.5224593,
+                  "longitude": 7.5927973
+                },
+                "instruction": "Continue on <span class=\"number\">A352</span>. <span class=\"distance-description\">Go for <span class=\"length\">211 m</span>.</span>",
+                "travelTime": 10,
+                "length": 211,
+                "shape": [
+                  "48.5224593,7.5927973",
+                  "48.5214078,7.5904262"
+                ],
+                "direction": "forward",
+                "id": "M15",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.5214078,
+                  "longitude": 7.5904262
+                },
+                "instruction": "Keep <span class=\"direction\">right</span> onto <span class=\"number\">A35</span> toward <span class=\"sign\"><span lang=\"fr\">St Dié des Vosges</span>/<span lang=\"fr\">Par Tunnel</span>/<span lang=\"fr\">Mulhouse</span>/<span lang=\"fr\">Colmar</span>/<span lang=\"fr\">Obernai</span></span>. <span class=\"distance-description\">Go for <span class=\"length\">34.3 km</span>.</span>",
+                "travelTime": 1160,
+                "length": 34338,
+                "shape": [
+                  "48.5214078,7.5904262",
+                  "48.5186934,7.5798583",
+                  "48.5078251,7.5798583",
+                  "48.4967852,7.5605679",
+                  "48.4645236,7.5301945",
+                  "48.4534085,7.5084472",
+                  "48.4197736,7.4853051",
+                  "48.3933055,7.4757886",
+                  "48.3728349,7.481904",
+                  "48.3531904,7.5007224",
+                  "48.3304882,7.4978364",
+                  "48.2889247,7.4608541",
+                  "48.2661688,7.4218547"
+                ],
+                "direction": "bearRight",
+                "id": "M16",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.2661688,
+                  "longitude": 7.4218547
+                },
+                "instruction": "Take exit <span class=\"exit\">17</span> toward <span class=\"sign\"><span lang=\"fr\">Freiburg</span>/<span lang=\"fr\">St Dié</span>/<span lang=\"fr\">Ste Marie-aux-M.</span>/<span lang=\"fr\">Villé</span>/<span lang=\"fr\">Sélestat-Ouest</span></span>. <span class=\"distance-description\">Go for <span class=\"length\">300 m</span>.</span>",
+                "travelTime": 25,
+                "length": 300,
+                "shape": [
+                  "48.2661688,7.4218547",
+                  "48.2657719,7.4183571"
+                ],
+                "direction": "bearRight",
+                "id": "M17",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.2657719,
+                  "longitude": 7.4183571
+                },
+                "instruction": "Take the <span class=\"exit\">3rd exit</span> from roundabout onto <span class=\"number\">D424</span> toward <span class=\"sign\"><span lang=\"fr\">Colmar</span>/<span lang=\"fr\">Strasbourg</span>/<span lang=\"fr\">Freiburg</span>/<span lang=\"fr\">Marckolsheim</span>/<span lang=\"fr\">Kintzheim</span></span>. <span class=\"distance-description\">Go for <span class=\"length\">512 m</span>.</span>",
+                "travelTime": 52,
+                "length": 512,
+                "shape": [
+                  "48.2657719,7.4183571",
+                  "48.2618344,7.4207819"
+                ],
+                "direction": "right",
+                "id": "M18",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.2618344,
+                  "longitude": 7.4207819
+                },
+                "instruction": "Take the <span class=\"exit\">1st exit</span> from roundabout onto <span class=\"number\">D424</span> toward <span class=\"sign\"><span lang=\"fr\">Freiburg</span>/<span lang=\"fr\">Marckolsheim</span>/<span lang=\"fr\">Kintzheim</span>/<span lang=\"fr\">Ht-Koenigsbourg</span></span>. <span class=\"distance-description\">Go for <span class=\"length\">636 m</span>.</span>",
+                "travelTime": 50,
+                "length": 636,
+                "shape": [
+                  "48.2618344,7.4207819",
+                  "48.2565451,7.4240649"
+                ],
+                "direction": "right",
+                "id": "M19",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.2565451,
+                  "longitude": 7.4240649
+                },
+                "instruction": "Take the <span class=\"exit\">3rd exit</span> from Carrefour du Haut-Koenigsbourg roundabout onto <span class=\"next-street\">Route du Haut-Koenigsbourg</span> <span class=\"number\">(D424)</span> toward <span class=\"sign\"><span lang=\"fr\">Freiburg</span>/<span lang=\"fr\">Sélestat-Centre</span>/<span lang=\"fr\">Marckolsheim</span></span>. <span class=\"distance-description\">Go for <span class=\"length\">1.3 km</span>.</span>",
+                "travelTime": 101,
+                "length": 1258,
+                "shape": [
+                  "48.2565451,7.4240649",
+                  "48.2493353,7.436682"
+                ],
+                "direction": "right",
+                "id": "M20",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.2493353,
+                  "longitude": 7.436682
+                },
+                "instruction": "Take the <span class=\"exit\">3rd exit</span> from roundabout onto <span class=\"number\">D424</span> toward <span class=\"sign\"><span lang=\"fr\">Freiburg</span>/<span lang=\"fr\">Heidolsheim</span>/<span lang=\"fr\">Marckolsheim</span></span>. <span class=\"distance-description\">Go for <span class=\"length\">1.7 km</span>.</span>",
+                "travelTime": 99,
+                "length": 1701,
+                "shape": [
+                  "48.2493353,7.436682",
+                  "48.2465994,7.4589121"
+                ],
+                "direction": "right",
+                "id": "M21",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.2465994,
+                  "longitude": 7.4589121
+                },
+                "instruction": "Pass <span class=\"roundabout-count\">2</span> roundabouts and continue on <span class=\"number\">D424</span>. <span class=\"distance-description\">Go for <span class=\"length\">11.0 km</span>.</span>",
+                "travelTime": 558,
+                "length": 10969,
+                "shape": [
+                  "48.2465994,7.4589121",
+                  "48.2402587,7.4763787",
+                  "48.2038987,7.5204635",
+                  "48.1726563,7.548455"
+                ],
+                "direction": "forward",
+                "id": "M22",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.1726563,
+                  "longitude": 7.548455
+                },
+                "instruction": "Take the <span class=\"exit\">3rd exit</span> from roundabout onto <span class=\"number\">D424</span> toward <span class=\"sign\"><span lang=\"fr\">Freiburg</span>/<span lang=\"fr\">Emmendingen</span>/<span lang=\"fr\">Z.I. Portuaire</span></span>. <span class=\"distance-description\">Go for <span class=\"length\">1.1 km</span>.</span>",
+                "travelTime": 79,
+                "length": 1077,
+                "shape": [
+                  "48.1726563,7.548455",
+                  "48.1649852,7.5564158"
+                ],
+                "direction": "right",
+                "id": "M23",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.1649852,
+                  "longitude": 7.5564158
+                },
+                "instruction": "Take the <span class=\"exit\">2nd exit</span> from roundabout onto <span class=\"number\">D424</span> toward <span class=\"sign\"><span lang=\"fr\">Freiburg</span>/<span lang=\"fr\">Emmendingen</span>/<span lang=\"fr\">Le Rhin</span>/<span lang=\"fr\">Z.I. Portuaire</span></span>. <span class=\"distance-description\">Go for <span class=\"length\">683 m</span>.</span>",
+                "travelTime": 45,
+                "length": 683,
+                "shape": [
+                  "48.1649852,7.5564158",
+                  "48.16064,7.5626171"
+                ],
+                "direction": "right",
+                "id": "M24",
+                "_type": "PrivateTransportManeuverType"
+              },
+              {
+                "position": {
+                  "latitude": 48.16064,
+                  "longitude": 7.5626171
+                },
+                "instruction": "Arrive at <span class=\"number\">D424</span>.",
+                "travelTime": 0,
+                "length": 0,
+                "shape": [
+                  "48.16064,7.5626171"
+                ],
+                "direction": "forward",
+                "id": "M25",
+                "_type": "PrivateTransportManeuverType"
+              }
+            ]
+          }
+        ],
+        "summary": {
+          "distance": 899265,
+          "trafficTime": 30554,
+          "baseTime": 29562,
+          "flags": [
+            "tollroad",
+            "tunnel",
+            "motorway",
+            "builtUpArea"
+          ],
+          "text": "The trip takes <span class=\"length\">899 km</span> and <span class=\"time\">8:13 h</span>.",
+          "travelTime": 29562,
+          "_type": "RouteSummaryType"
+        }
+      }
+    ],
+    "language": "en-us"
+  }
+}
